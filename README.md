@@ -1,6 +1,6 @@
 # qFibre Firewall (QFF)
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/qfiber/qfw)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/qfiber/qff)
 [![Go Version](https://img.shields.io/badge/go-1.24%2B-blue)](https://golang.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -71,8 +71,8 @@ The engine (`qff-engine`) runs as root and exposes a local Unix socket, while th
 ### Build & Install
 ```bash
 git clone https://github.com/google/nftables.git
-git clone https://github.com/qfiber/qfw.git
-cd qfw
+git clone https://github.com/qfiber/qff.git
+cd qff
 make build
 sudo make install
 ```
