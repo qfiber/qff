@@ -1,4 +1,4 @@
-# qFibre Firewall (QFF)
+# qFiber Firewall (QFF)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/qfiber/qff)
 [![Go Version](https://img.shields.io/badge/go-1.24%2B-blue)](https://golang.org/)
